@@ -152,6 +152,6 @@ http://<EC2-Public-IP>
 
 B.Tech CSE Student | Cloud & DevOps Learner
 
-GitHub: https://github.com/YOUR_GITHUB_USERNAME
+GitHub: https://github.com/MadhuGorja
 
-LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME
+LinkedIn: https://www.linkedin.com/in/madhu-gorja-29781233a/
