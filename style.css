@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, sans-serif;
+    background:#f4f4f4;
+    margin:40px;
+}
+
+header{
+    text-align:center;
+}
+
+h1{
+    color:#0d47a1;
+}
+
+h2{
+    color:#1565c0;
+}
+
+nav a{
+    text-decoration:none;
+    color:#0d47a1;
+    font-weight:bold;
+    margin:10px;
+}
+
+nav a:hover{
+    color:red;
+}
+
+p{
+    font-size:18px;
+}
+
+hr{
+    margin:20px 0;
+}
