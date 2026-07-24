@@ -1,6 +1,6 @@
 # Docker Nginx Static Website on AWS EC2
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates how to deploy a static website using **Docker** and **Nginx** on an **AWS EC2 Ubuntu** instance.
 
@@ -8,7 +8,7 @@ The website consists of multiple HTML pages styled with CSS and is served throug
 
 ---
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 - Docker
 - Nginx
@@ -20,7 +20,7 @@ The website consists of multiple HTML pages styled with CSS and is served throug
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 project1/
@@ -34,7 +34,7 @@ project1/
 
 ---
 
-## 🛠️ What I Implemented
+##  What I Implemented
 
 - Installed Docker on an AWS EC2 Ubuntu instance.
 - Pulled the official Nginx image from Docker Hub.
@@ -47,7 +47,7 @@ project1/
 
 ---
 
-## 📚 Docker Concepts Covered
+##  Docker Concepts Covered
 
 - Docker Installation
 - Docker Images
@@ -61,7 +61,7 @@ project1/
 
 ---
 
-## 💻 Docker Commands Used
+##  Docker Commands Used
 
 ```bash
 docker pull nginx
@@ -80,7 +80,7 @@ docker rmi
 
 ---
 
-## 🌐 Deployment Workflow
+##  Deployment Workflow
 
 ```
 Browser
@@ -103,7 +103,7 @@ Static Website
 
 ---
 
-## 📖 Key Learnings
+##  Key Learnings
 
 - Difference between Docker and Virtual Machines.
 - Difference between Docker Images and Containers.
@@ -115,7 +115,7 @@ Static Website
 
 ---
 
-## ▶️ Run the Project
+##  Run the Project
 
 Pull the Nginx image:
 
@@ -137,7 +137,7 @@ http://<EC2-Public-IP>
 
 ---
 
-## 🎯 Future Improvements
+##  Future Improvements
 
 - Build a custom Docker image using a Dockerfile.
 - Host multiple websites using different containers.
@@ -146,7 +146,7 @@ http://<EC2-Public-IP>
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Madhu Gorja**
 
